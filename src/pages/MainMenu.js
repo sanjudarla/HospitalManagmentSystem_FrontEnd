@@ -70,7 +70,7 @@ const MainMenu = () => {
                                     <CardContent>
                                         <img src="images/patient.jpg" width="300px" height="170px" alt="" className="icon" />
                                         <Typography gutterBottom variant="h5" component="div">
-                                            Patient Management
+                                            Patients Management
                                         </Typography>
                                     </CardContent>
 
